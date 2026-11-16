@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beamsvilleelectrician.ca/sitemap-index.xml
